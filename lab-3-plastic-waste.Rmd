@@ -5,9 +5,9 @@ date: "`r Sys.Date()`"
 output: github_document
 ---
 
-Student Name:
+Student Name:Amsha Fisal
 
-Student ID:
+Student ID:2201000180
 
 ```{r include = FALSE}
 knitr::opts_chunk$set(eval = FALSE)

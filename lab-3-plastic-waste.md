@@ -1,11 +1,11 @@
 Lab 3 - Plastic Waste
 ================
 DSC 200 - Data Science I
-2021-02-06
+2021-02-15
 
-Student Name:
+Student Name:Amsha Fisal
 
-Student ID:
+Student ID:2201000180
 
 ``` r
 library(tidyverse)
