@@ -115,7 +115,7 @@ E3. Describe why we defined the `color` and `fill` of the curves by
 mapping aesthetics of the plot but we defined the `alpha` level as a
 characteristic of the plotting geom.
 
-Answer here: i aesthetic provides color values using specification
+\#Answer Ex3 i aesthetic provides color values using specification
 
 *Now is a good time to knit your document and commit and push your
 changes to GitHub with an appropriate commit message. Make sure to
