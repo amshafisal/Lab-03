@@ -154,6 +154,9 @@ to be any clear distinctions between continents with respect to how
 plastic waste per capita and mismanaged plastic waste per capita are
 associated?
 
+\#answer Ex6  
+yes, the amount of waste varies from one continent to another
+
 E7. Visualize the relationship between plastic waste per capita and
 total population as well as plastic waste per capita and coastal
 population. You will need to make two separate plots. Do either of these

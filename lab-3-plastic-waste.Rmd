@@ -138,6 +138,9 @@ positive relationship, they all handle plastice waste wrongly
 E6.  Colour the points in the scatterplot by continent.
     Does there seem to be any clear distinctions between continents with respect to how plastic waste per capita and mismanaged plastic waste per capita are associated?
     
+#answer Ex6    
+yes, the amount of waste varies from one continent to another
+    
 ```{r plastic_waste_per_cap-scatter-by-continent}
 
 ```
