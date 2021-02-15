@@ -146,6 +146,9 @@ E5. Visualize the relationship between plastic waste per capita and
 mismanaged plastic waste per capita using a scatterplot. Describe the
 relationship.
 
+\#answer Ex5 positive relationship, they all handle plastice waste
+wrongly
+
 E6. Colour the points in the scatterplot by continent. Does there seem
 to be any clear distinctions between continents with respect to how
 plastic waste per capita and mismanaged plastic waste per capita are
