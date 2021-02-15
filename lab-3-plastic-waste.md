@@ -139,6 +139,9 @@ apparent in the box plots but not in the violin plots?
 
 **Remember:** We use `geom_point()` to make scatterplots.
 
+\#answer ex4 geom\_violin(mapping =plastic\_waste, data
+=plastic\_waste,stat = “ydensity”,position = “dodge”)
+
 E5. Visualize the relationship between plastic waste per capita and
 mismanaged plastic waste per capita using a scatterplot. Describe the
 relationship.
