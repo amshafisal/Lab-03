@@ -1,7 +1,7 @@
 Lab 3 - Plastic Waste
 ================
 DSC 200 - Data Science I
-2021-02-15
+2021-02-16
 
 Student Name:Amsha Fisal
 
@@ -179,7 +179,9 @@ The term “smooth” should help you [pick which geom to
 use](https://ggplot2.tidyverse.org/reference/index.html#section-geoms).
 
 E8. Recreate the following plot, and interpret what you see in context
-of the data.
+of the data. \#ANSWER Ex8 Africa is the continent with the highest waste
+consumption and north America comes next but in the last place that she
+got 0.3 is oceania
 
 ![](lab-3-plastic-waste_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 

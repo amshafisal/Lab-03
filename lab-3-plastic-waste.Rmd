@@ -169,6 +169,8 @@ If you haven't had time to finish the exercises above, please ask for help befor
 
 
 E8.  Recreate the following plot, and interpret what you see in context of the data.
+#ANSWER Ex8
+Africa is the continent with the highest waste consumption and north America comes next but in the last place that she got 0.3 is oceania
 
 ```{r echo=FALSE, message=FALSE, eval=TRUE, warning=FALSE}
 plastic_waste %>% 
