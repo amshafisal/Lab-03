@@ -169,9 +169,8 @@ If you haven't had time to finish the exercises above, please ask for help befor
 
 
 E8.  Recreate the following plot, and interpret what you see in context of the data.
-#ANSWER Ex8
-Africa is the continent with the highest waste consumption and north America comes next but in the last place that she got 0.3 is oceania
-
+#other ANSWER Ex8
+geom_smooth(make a good shape to eye in the presence of overpolting and help to see the curve data analyis is it another way) the coastal cities for plastic per capita and lowest population.
 ```{r echo=FALSE, message=FALSE, eval=TRUE, warning=FALSE}
 plastic_waste %>% 
   mutate(coastal_pop_prop = coastal_pop / total_pop) %>%

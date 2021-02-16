@@ -179,10 +179,10 @@ The term “smooth” should help you [pick which geom to
 use](https://ggplot2.tidyverse.org/reference/index.html#section-geoms).
 
 E8. Recreate the following plot, and interpret what you see in context
-of the data. \#ANSWER Ex8 Africa is the continent with the highest waste
-consumption and north America comes next but in the last place that she
-got 0.3 is oceania
-
+of the data. \#other ANSWER Ex8 geom\_smooth(make a good shape to eye in
+the presence of overpolting and help to see the curve data analyis is it
+another way) the coastal cities for plastic per capita and lowest
+population.
 ![](lab-3-plastic-waste_files/figure-gfm/unnamed-chunk-2-1.png)<!-- -->
 
 Knit, *commit (with an appropriate message), and push your changes to
