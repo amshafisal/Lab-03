@@ -148,7 +148,10 @@ yes, the amount of waste varies from one continent to another
 E7.  Visualize the relationship between plastic waste per capita and total population as well as plastic waste per capita and coastal population.
     You will need to make two separate plots.
     Do either of these pairs of variables appear to be more strongly linearly associated?
+#answer Ex7
+ggplot(data=plastic_waste,mapping=aes(x = total_pop,color = continent, fill = continent, y = plastic_waste_per_cao))+geom_point()
 
+ggplot(data= plastic_waste, mapping = aes(x = coasal_pop, color = continent, fill = continent, y = plastic_waste_per_cap))+ geom_point()
 ```{r plastic_waste_per_cap_total_population}
 
 ```
